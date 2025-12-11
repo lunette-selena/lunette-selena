@@ -1,7 +1,13 @@
 # Hi, I’m Selena 👋
 I’m a student from Vietnam who loves coding, drawing, reading, and occasionally playing the piano. 🚀
 
+*she/her* • bluuesky ✨
+
 My profile :(https://gravatar.com/avatar/bravely2952e61a69?s=200)
+
+My favorite color: Purple
+
+
 
 ---
 
