@@ -11,18 +11,20 @@ My favorite color: Purple
 
 ---
 
-## 🔹 Badges
+## 🎏 Badges
 ![Profile Views](https://komarev.com/ghpvc/?username=selena&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/selena?style=social)
 
 ---
 
-## 🔹 Tech Stack
+## 🎏 Tech Stack
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
 
 ---
 
-## 🔹 Social Links
+## 🎏 Social Links
+Gmail : luu.di2011@gmail.com
+
 Face : https://www.facebook.com/thien.di.226671/
 
 Discord : tdi_36110916
