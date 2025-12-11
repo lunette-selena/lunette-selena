@@ -3,7 +3,7 @@ I’m a student from Vietnam who loves coding, drawing, reading, and occasionall
 
 *she/her* • bluuesky ✨
 
-My profile :(https://gravatar.com/avatar/bravely2952e61a69?s=200)
+My profile : https://gravatar.com/avatar/bravely2952e61a69?s=200
 
 My favorite color: Purple
 
@@ -23,7 +23,7 @@ My favorite color: Purple
 ---
 
 ## 🔹 Social Links
-Face : (https://www.facebook.com/thien.di.226671/)
+Face : https://www.facebook.com/thien.di.226671/
 
 Discord : tdi_36110916
 
