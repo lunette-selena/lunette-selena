@@ -27,7 +27,7 @@ Gmail : luu.di2011@gmail.com
 
 Face : https://www.facebook.com/thien.di.226671/
 
-Discord : tdi_36110916
+[![Discord](https://cdn.discordapp.com/avatars/tdi_36110916/AVATAR_HASH.png?size=32)](https://discord.com/users/tdi_36110916) : tdi_36110916
 
 ---
 
